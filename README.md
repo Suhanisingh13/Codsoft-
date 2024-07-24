@@ -55,4 +55,4 @@ A secure password generator to create strong and random passwords.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suhanisingh13/codsoft.git
+   git clone https://github.com/suhanisingh13/codsoft-.git
